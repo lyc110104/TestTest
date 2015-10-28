@@ -6,6 +6,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
+    int a;
+    int b;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
